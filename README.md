@@ -1,1 +1,1 @@
-# gtzan-music-genre-classification
+# GTZAN Music Genre Classification
